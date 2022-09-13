@@ -1,5 +1,5 @@
 # ambientgenerator
-A Max/MSP project that allows the user to create and generate drones and ambiences for visual media.
+A Max/MSP project that allows the user to create and generate drones and ambiences.
 
 
 To use this project, you do not need to own Max 8. I hope you find it useful and fun in any way; whether on its own or in conjunction with other visual media!
